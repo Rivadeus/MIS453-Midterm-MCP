@@ -1,14 +1,10 @@
 {
   "mcpServers": {
     "sentimentscope": {
-      "command": "uv",
+      "command": "python",
       "args": [
-        "run",
-        "mcp_server.py"
-      ],
-      "env": {
-        "PYTHONUTF8": "1"
-      }
+        "C:\\Users\\Riva\\Desktop\\sentimentscope-mcp\\mcp_server.py"
+      ]
     }
   }
 }
