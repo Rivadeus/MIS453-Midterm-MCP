@@ -1,0 +1,14 @@
+{
+  "mcpServers": {
+    "sentimentscope": {
+      "command": "uv",
+      "args": [
+        "run",
+        "mcp_server.py"
+      ],
+      "env": {
+        "PYTHONUTF8": "1"
+      }
+    }
+  }
+}
